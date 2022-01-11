@@ -18,7 +18,7 @@ Feel free to contribute and add Slack apps you think is relevant to that list.
 [Cloud hosting](#cloud-hosting) \
 [People Management platform](#people-Management-platform) \
 [Data visualizer](#data-visualizer) \
-[Code related integrations](#code-related-integrations) \
+[Code related integrations](#code-related-integrations)
 
 ## Slack apps for productivity
 In this category we'll explore the Slack apps we found that can help tech individuals and tech teams be more productive.
