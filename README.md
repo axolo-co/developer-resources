@@ -8,7 +8,7 @@ Feel free to contribute and add Slack apps you think is relevant to that list.
 
 ## Slack apps for developers by by Category: 
 
-[Slack apps for productivity] (#slack apps for productivity)
+[slack apps for productivity] (#slack apps for productivity)
 [Slack project management apps ] (#slack project management apps )
 [Slack apps for managing teams and culture] (#slack apps for managing teams and culture)
 [Standup Slack app bot] (#standup Slack app bot)
