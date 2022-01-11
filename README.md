@@ -3,7 +3,7 @@ List of the best slack apps for developers.
 
 Out of all our clients we asked and looked who was using what tool and this is the list that we found. While some of the tools in the list are not specific to developers team we listed them because we think they might still be useful for some.
 
-Feel free to contribute and add Slack apps you think is relevant to that list.
+Feel free to contribute and add Slack apps that you think are relevant to that list.
 
 
 ## Slack apps for developers by by Category: 
