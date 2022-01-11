@@ -8,17 +8,17 @@ Feel free to contribute and add Slack apps you think is relevant to that list.
 
 ## Slack apps for developers by by Category: 
 
-[Slack apps for productivity](#slack-apps-for-productivity)
-[Slack project management apps ](#slack-project-management-apps)
-[Slack apps for managing teams and culture](#slack-apps-for-managing-teams-and-culture)
-[Standup Slack app bot](#standup-Slack-app-bot)
-[Polls Slack Apps ](#polls-Slack-Apps)
-[Bug tracker](#bug-tracker)
-[Log tracker](#log-tracker)
-[Cloud hosting](#cloud-hosting)
-[People Management platform](#people-Management-platform)
-[Data visualizer](#data-visualizer)
-[Code related integrations](#code-related-integrations)
+[Slack apps for productivity](#slack-apps-for-productivity) \
+[Slack project management apps ](#slack-project-management-apps) \
+[Slack apps for managing teams and culture](#slack-apps-for-managing-teams-and-culture) \
+[Standup Slack app bot](#standup-Slack-app-bot) \
+[Polls Slack Apps ](#polls-Slack-Apps) \
+[Bug tracker](#bug-tracker) \
+[Log tracker](#log-tracker) \
+[Cloud hosting](#cloud-hosting) \
+[People Management platform](#people-Management-platform) \
+[Data visualizer](#data-visualizer) \
+[Code related integrations](#code-related-integrations) \
 
 ## Slack apps for productivity
 In this category we'll explore the Slack apps we found that can help tech individuals and tech teams be more productive.
