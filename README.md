@@ -6,7 +6,7 @@ Out of all our clients we asked and looked who was using what tool and this is t
 Feel free to contribute and add Slack apps that you think are relevant to that list.
 
 
-## Slack apps for developers by by Category: 
+## Slack apps for developers by Category: 
 
 [Slack apps for productivity](#slack-apps-for-productivity) \
 [Slack project management apps ](#slack-project-management-apps) \
