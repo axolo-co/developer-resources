@@ -26,7 +26,7 @@ In this category we'll explore the Slack apps we found that can help tech indivi
 ###  Axolo
 "Every minute trying to understand each other is a minute not spent shipping features".
 Axolo focuses on making it easy for developers to talk about a pull request. The result is that pull requests are resolved faster, it's easier to stay on top of PR and there is an increase in focus due to less context switching. 
-<img src="https://apichaos.s3.eu-west-3.amazonaws.com/AxoloSlackCodeReviews.png" alt="Axolo Slack App Marketplace Screenshot" />
+<img src="https://apichaos.s3.eu-west-3.amazonaws.com/axolo+way+black+background.png" alt="Axolo way vs the old way" />
 
 #### What we like 👍:
 Axolo creates a channel for every pull request and has a deep integration with GitHub. It will share the code comments, code reviews, issues, and even the GitHub actions. As a bonus, there is a /lgtm command that lets you approve pull requests in seconds from Slack. 
