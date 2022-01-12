@@ -23,10 +23,10 @@ Feel free to contribute and add Slack apps that you think are relevant to that l
 ## Slack apps for productivity
 In this category we'll explore the Slack apps we found that can help tech individuals and tech teams be more productive.
 
-###  Axolo
+###  Axolo for GitHub
 "Every minute trying to understand each other is a minute not spent shipping features".
 Axolo focuses on making it easy for developers to talk about a pull request. The result is that pull requests are resolved faster, it's easier to stay on top of PR and there is an increase in focus due to less context switching. 
-<img src="https://apichaos.s3.eu-west-3.amazonaws.com/Axolo+For+GitHub+way.jpg" alt="Axolo way vs the old way" />
+<img src="https://apichaos.s3.eu-west-3.amazonaws.com/Axolo%20Way%20BG.jpg" alt="Axolo way vs the old way" />
 
 #### What we like 👍:
 Axolo creates a channel for every pull request and has a deep integration with GitHub. It will share the code comments, code reviews, issues, and even the GitHub actions. As a bonus, there is a /lgtm command that lets you approve pull requests in seconds from Slack. 
