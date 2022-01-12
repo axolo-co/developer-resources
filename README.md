@@ -124,6 +124,17 @@ Value-driven company with a well-integrated with actions you can do directly int
 
 More information on <a target="_blank" href="https://values.justdisco.com/">justdisco</a>
 
+
+#### Albert (by Riot)
+Easily set up a cybersecurity awareness program using Albert, the Slack bot that teaches cybersecurity basics to your team in a way they love.
+
+<a target="_blank" href="https://tryriot.com/albert"><img src="https://tryriot.com/wp-content/themes/riot-2020-production/images/albert-slack-en.png" width="500px" alt="Albert by Riot"/></a>
+
+#### What we like 👍: 
+Cybersecurity is a huge issue today, and Albert makes it easy to grow the cybersecurity culture in an org.
+
+More information on <a target="_blank" href="https://tryriot.com/albert">tryriot.com</a>
+
 ###  heyTaco
 "Build Stronger, happier remote teams". HeyTaco is here to help build camaraderie within the organization.
 
