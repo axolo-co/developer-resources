@@ -282,7 +282,7 @@ I’ve seen numerous incident apps coming up in the past few/months/years. They 
 They usually have a similar process: you have a command you can do from slack /incident create and you need to fill out a form. In the form you put someone in charge, mention the severity and information you can provide to show the problem. It then spins off a channel and you can discuss how to best resolve it with the right team and people who are automatically invited to that channel. 
 
 ###  Incident.io
-Incident.io is a well-funded company by ex-Monzo (banking) employees. They have a 250+ people community in Slack and seem to have happy customers. I’ve seen screenshots of recap of incidents and it looks nice!
+Incident.io is a well-funded company by ex-Monzo (banking) employees. They have a 300+ people community in Slack and seem to have happy customers. I’ve seen screenshots of recap of incidents and it looks nice!
 
 <a target="_blank" href="https://incident.io/">Incident.io</a>
 
