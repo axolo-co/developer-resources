@@ -1,11 +1,11 @@
-# Code review resources by Axolo
-Welcome to the Code review resources by Axolo repository! Here, you'll find a collection of resources to help engineering teams review pull requests faster and improve their workflow.
+# Developer Resources by Axolo
+Welcome to the Developer Resources by Axolo repository! Here, you'll find a collection of resources to help engineering teams review pull requests faster and improve their workflow.
 
 ## Contents
 This repository includes the following items:
 
-- A list of Slack apps for developers
-- An emoji guide for code reviews
+- Slack apps for developers
+- Emoji guide for code reviews
 - Pull request templates
 
 ## Usage
