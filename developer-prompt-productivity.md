@@ -34,7 +34,7 @@ Here's the error message and context:
 
 Can you provide an 1. an explanation and 2. a solution or suggest steps to resolve this issue?
 
-```# ChatGPT Prompt for developer productivity
+```
 
 ## Refactoring and suggestions
 
